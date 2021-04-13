@@ -1,0 +1,15 @@
+C:\Users\bannev1\source\repos\loginUI\bin\Debug\loginUI.exe.config
+C:\Users\bannev1\source\repos\loginUI\bin\Debug\loginUI.exe
+C:\Users\bannev1\source\repos\loginUI\bin\Debug\loginUI.pdb
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.csprojAssemblyReference.cache
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\MainWindow.g.cs
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\App.g.cs
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI_MarkupCompile.cache
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI_MarkupCompile.lref
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\MainWindow.baml
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.g.resources
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.Properties.Resources.resources
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.csproj.GenerateResource.cache
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.csproj.CoreCompileInputs.cache
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.exe
+C:\Users\bannev1\source\repos\loginUI\obj\Debug\loginUI.pdb
